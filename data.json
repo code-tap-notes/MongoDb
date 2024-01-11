@@ -1,0 +1,10 @@
+{
+    "name": "The Utimate Docker Cours",
+    "price": 9999,
+    "is_published": true,
+    "tag": ["software", "devops"],
+    "author": {
+        "first_name": "Thi Tuong Vien",
+        "last_name": "Pretceille"
+    }
+}
